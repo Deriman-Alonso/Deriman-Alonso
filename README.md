@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deriman-Alonso
-- 👀 I’m interested in consuming enough coffe to kill a small horse
+- 👀 I’m interested in consuming enough caffeine to kill a small horse
 - 🌱 I’m currently learning to develop in odoo
 - 💞️ I’m looking to collaborate on OCA
 - 📫 How to reach me d.alonso@binhex.cloud
