@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Deriman-Alonso
-- 👀 I’m interested in consuming enough caffeine to kill a small horse
+- 👋 Hi, I’m @Deriman-Alonso 👋 
+- 👀 I’m interested in consuming enough caffeine to kill a small horse 👀
 - 🌱 I’m currently learning to develop in odoo 🌱
 - 💞️ I’m looking to collaborate on OCA 💞️ 
 - 🎀 I'm smoking a whole pack a day 🎀
