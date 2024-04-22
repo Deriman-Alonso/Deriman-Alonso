@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on OCA 💞️ 
 - 🎀 I'm smoking a whole pack a day 🎀
 - 📫 How to reach me: Just don't 📫
-- ⚡ Random bs: Penguins are like chicken pandas  ⚡
+- ⚡ Random bs: Penguins are just chicken pandas  ⚡
 - ☀️ Tomorrow will be another of sun ☀️ 
