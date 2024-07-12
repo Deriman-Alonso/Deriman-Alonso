@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Deriman-Alonso 👋 
-- 🌱 I’m currently learning to develop in odoo 🌱
-- 💞️ I’m looking to collaborate on OCA 💞️ 
-- ⚡ Random bs: Penguins are just chicken pandas  ⚡
-- ☀️ Tomorrow will be another of sun ☀️ 
+
